@@ -1,0 +1,7 @@
+apiVersion: santiagoangel.github.com/v1alpha1
+kind: Cnfcdndummy
+metadata:
+  name: example-cnfcdndummy
+spec:
+  # Add fields here
+  size: 3
